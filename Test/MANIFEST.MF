@@ -1,0 +1,2 @@
+Plugin-Version:1.0.0
+Plugin-SymbolicName:Client1
